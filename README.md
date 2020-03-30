@@ -4,3 +4,11 @@ The 2019 novel coronavirus (COVID-19) presents several unique features. While th
 ![corona_deeplearning](https://user-images.githubusercontent.com/50953182/77953490-02518780-72eb-11ea-9888-229835a15dce.png)
 
 If you would like to contribute to this project, you can email us at sumeetrmotwani@gmail.com or sid@parekh.co.in
+
+Dataset
+For covid19-ai, we have used the following repo for our data set. The images are being updated constantly
+https://github.com/ieee8023/covid-chestxray-dataset
+
+Store the images in your dataset directory
+
+
