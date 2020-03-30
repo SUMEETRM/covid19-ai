@@ -5,10 +5,12 @@ The 2019 novel coronavirus (COVID-19) presents several unique features. While th
 
 If you would like to contribute to this project, you can email us at sumeetrmotwani@gmail.com or sid@parekh.co.in
 
-Dataset
+## Dataset
+
 For covid19-ai, we have used the following repo for our data set. The images are being updated constantly
 https://github.com/ieee8023/covid-chestxray-dataset
 
+## Structure
 Store the images in your dataset directory
 
 
