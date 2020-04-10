@@ -14,4 +14,4 @@ https://github.com/ieee8023/covid-chestxray-dataset
 Store the images in your dataset directory
 
 ## Donate
-If you like this project, please donate. We turned down offers fromm a few comapnies and decided to open source the model instead. Your donations would help us keep up the work.
+If you like this project, please donate. We turned down offers from a few comapnies and decided to open source the model instead. Your donations would help us keep up the work.
