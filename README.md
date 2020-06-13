@@ -10,8 +10,7 @@ If you would like to contribute to this project, you can email us at sumeetrmotw
 For covid19-ai, we have used the following repo for our data set. The images are being updated constantly
 https://github.com/ieee8023/covid-chestxray-dataset
 
-## Structure
-Store the images in your dataset directory
-
-## Donate
-If you like this project, please donate. We turned down offers from a few comapnies and decided to open source the model instead. Your donations would help us keep up the work.
+## Press
+Times of India: https://timesofindia.indiatimes.com/city/mumbai/class-xi-students-work-on-model-to-spot-x-rays-of-covid-19-patients/articleshow/75151793.cms
+Your Story: https://yourstory.com/2020/04/coronavirus-class-11-students-machine-learning-model
+Republic World: https://www.republicworld.com/india-news/city-news/dias-class-xi-students-develop-model-to-test-covid-through-x-ray-scans.html
