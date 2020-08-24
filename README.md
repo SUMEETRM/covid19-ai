@@ -5,7 +5,7 @@ The 2019 novel coronavirus (COVID-19) presents several unique features. While th
 
 If you would like to contribute to this project, you can email us at sumeetrmotwani@gmail.com or sid@parekh.co.in
 
-## We are not making the code available on this repo to prevent any misuse. Please email us if you're interested. 
+## After a number of downloads, we are not making the code available on this repo to prevent any misuse. Please email us if you're interested. 
 ## Dataset
 
 For covid19-ai, we have used the following repo for our data set. The images are being updated constantly
